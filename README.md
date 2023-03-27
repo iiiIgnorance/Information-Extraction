@@ -23,8 +23,8 @@ $ python3 project2.py -spanbert AIzaSyCn8r6T7HFDtIroyakH0xp5T8UKOd9T2iU 2d27291d
 
 Credential | Key
 --- | ---
-Google Api Key | AIzaSyCn8r6T7HFDtIroyakH0xp5T8UKOd9T2iU
-Google Engine Id | 2d27291d6a2f66dc1
+Google Api Key | 
+Google Engine Id | 
 
 
 ## Project Design
