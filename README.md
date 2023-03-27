@@ -1,7 +1,4 @@
-# COMS6111-Project2
-
-## Team
-Name And UNI: (Ziran Liu, zl3234) & (Wenshuo Xie, wx2283)
+# Information-Extraction
 
 ## Files
 Name | Description
